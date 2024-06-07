@@ -1,0 +1,20 @@
+﻿  RandomLootGenerator.cpp
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(198,51): warning C4267: 'bağımsız değişken': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(198,51): warning C4267:         with
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(198,51): warning C4267:         [
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(198,51): warning C4267:             _Ty=int
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(198,51): warning C4267:         ]
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(205,19): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(225,64): warning C4267: 'bağımsız değişken': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(225,64): warning C4267:         with
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(225,64): warning C4267:         [
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(225,64): warning C4267:             _Ty=int
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(225,64): warning C4267:         ]
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(445,71): warning C4244: 'bağımsız değişken': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(531,22): warning C4101: 'dcResult': yerel değişken başvurusu kaldırıldı
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(653,107): warning C4267: 'bağımsız değişken': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(653,107): warning C4267:         with
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(653,107): warning C4267:         [
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(653,107): warning C4267:             _Ty=int
+C:\Users\yusuf\source\repos\RandomLootGenerator\RandomLootGenerator\RandomLootGenerator.cpp(653,107): warning C4267:         ]
+  RandomLootGenerator.vcxproj -> C:\Users\yusuf\source\repos\RandomLootGenerator\x64\Debug\RandomLootGenerator.exe
